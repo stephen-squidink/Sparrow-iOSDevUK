@@ -41,4 +41,4 @@ Please download the following frameworks & libraries for this game to compile: -
 Concept, Design & Development
 ---
 
-__Squid Ink Games__ (http://www.squidinkgames.com)
+[__Squid Ink Games__] (http://www.squidinkgames.com)
